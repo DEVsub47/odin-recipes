@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: hsla(274, 82%, 33%, 0.644);
+    margin: 20px 50px;
+}
+
+div {
+    /* border: 2px solid slategray; */
+    width: 400px;
+    height: auto;
+    margin-left: 50px;
+    padding: 20px;
+    background-color: rgba(45, 45, 49, 0.2);
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: 10px 5px 10px rgba(137, 27, 221, 0.628)
+}
+
+ul {
+    background-color: rgba(122, 28, 222, 0.622);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+div a {
+    color: #ffffff77;
+}
